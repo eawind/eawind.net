@@ -2,9 +2,12 @@ baseURL = "http://www.eawind.net/"
 languageCode = "ja"
 title = "ユーラシアの風 – Blowin' in the Eurasian Wind -"
 theme = "ananke"
-
 googleAnalytics = "UA-2521488-1"
 
+SectionPagesMenu = "main"
+
 [params]
-favicon = "favicon.ico"
-featured_image = "/img/wp/2007/04/200303272326021.jpg"
+  favicon = "favicon.ico"
+  featured_image = "/img/wp/2007/04/200303272326021.jpg"
+  twitter = "https://twitter.com/eawind"
+  description = "ユーラシアの風に吹かれて、ユーラシア大陸横断！そしてアジアンハイウェイで韓国へ行く旅路！それと、東京・横浜を中心に活動するダブルベーシスト。主にコンボジャズの演奏をサポートする。"
