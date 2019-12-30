@@ -1,1 +1,1 @@
-HUGO_ENV=production hugo
+HUGO_ENV = "production hugo"
