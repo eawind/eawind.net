@@ -3,7 +3,6 @@ title: 7月1日（金) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2011-07-02T04:58:06+09:00
-url: /?p=146
 categories:
   - Jazz
 ---

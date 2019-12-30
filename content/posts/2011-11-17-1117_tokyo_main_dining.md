@@ -3,7 +3,6 @@ title: 11月17日（木）＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2011-11-17T14:23:30+09:00
-url: /?p=166
 categories:
   - Jazz
 ---

@@ -3,7 +3,6 @@ title: 3月19日（金）＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2010-03-20T12:24:15+09:00
-url: /?p=92
 categories:
   - Jazz
 ---

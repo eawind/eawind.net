@@ -3,7 +3,6 @@ title: 1月24日(土) ＠Z・imagine＆日本橋Bar Jazzy
 author: eawind
 type: post
 date: 2009-01-25T15:42:28+09:00
-url: /?p=12
 categories:
   - Jazz
 ---

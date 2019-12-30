@@ -3,7 +3,6 @@ title: 6月9日（木）@池袋 Bar Hot Pepper
 author: eawind
 type: post
 date: 2011-06-11T21:29:17+09:00
-url: /?p=142
 categories:
   - Jazz
 ---

@@ -3,7 +3,6 @@ title: 10月21日（木) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2010-10-31T06:22:50+09:00
-url: /?p=118
 categories:
   - Jazz
 ---

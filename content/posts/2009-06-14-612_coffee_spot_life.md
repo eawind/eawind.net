@@ -3,7 +3,6 @@ title: 6月12日（金）＠武蔵中原 Coffee spot life
 author: eawind
 type: post
 date: 2009-06-13T15:54:30+09:00
-url: /?p=43
 categories:
   - Jazz
 ---

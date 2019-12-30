@@ -3,7 +3,6 @@ title: 5月11日（水) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2011-05-11T14:28:31+09:00
-url: /?p=139
 categories:
   - Jazz
 ---

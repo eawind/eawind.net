@@ -3,7 +3,6 @@ title: 7月20日（月）＠横浜 JAZZ SPOT 「DOLPHY」
 author: eawind
 type: post
 date: 2009-07-21T15:50:09+09:00
-url: /?p=47
 categories:
   - Jazz
 ---

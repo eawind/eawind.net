@@ -3,7 +3,6 @@ title: 9月15日（水) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2010-09-15T15:18:24+09:00
-url: /?p=112
 categories:
   - Jazz
 ---

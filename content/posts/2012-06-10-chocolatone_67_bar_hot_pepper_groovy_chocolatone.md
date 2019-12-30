@@ -3,13 +3,13 @@ title: 6月7日（木）@池袋 Bar Hot Pepper
 author: eawind
 type: post
 date: 2012-06-10T12:31:45+09:00
-url: /?p=176
 categories:
   - Jazz
+featured_image: /img/wp/2012/06/IMG_0258.jpg
 ---
 第４６回目のChocolatoneのライブでした。だいぶ多く演奏してきたこのバンドですが、私はしばらくお預けになります。また、いつかいい演奏ができればと思います。
 
-<img src="/img/wp/2012/06/IMG_0258.jpg" alt="IMG_0258" />
+![IMG_0258](/img/wp/2012/06/IMG_0258.jpg)
 
 6月7日（木）@[池袋 Bar Hot Pepper](http://jazzhotpepper.com/)
 
@@ -17,7 +17,7 @@ Groovyなライブをお届け。
 
 ますますパワーアップしての演奏で、池袋の夜を彩ります。
 
-【[Chocolatone](http://www.eawind.net/?page_id=930)】
+【[Chocolatone](../jazz/chocolatone/)】
 
 * 野下 聖司 (ts)
 * 石渡 雅裕 (pf)
@@ -26,7 +26,7 @@ Groovyなライブをお届け。
 
 open 19:00 close 24:00
 
-1stset 20:00-,2ndset 21:15-,3rdset 22:30- 終わりが23時15分までとなります。
+1st set 20:00-,2nd set 21:15-,3rd set 22:30- 終わりが23時15分までとなります。
 
 MC: 2,500円 （ご飲食は別途になります。　おいしいお酒＆カクテル多数ご用意した気軽にたのしめる本格派Ｂａｒです。）
 

@@ -3,7 +3,6 @@ title: 10月27日（水）＠都立大学 JAZZ CAFE DINING BAR JAMMIN’
 author: eawind
 type: post
 date: 2010-10-31T06:32:38+09:00
-url: /?p=119
 categories:
   - Jazz
 ---

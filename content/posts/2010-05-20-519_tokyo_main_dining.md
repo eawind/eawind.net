@@ -3,7 +3,6 @@ title: 5月19日（水）＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2010-05-19T15:05:23+09:00
-url: /?p=96
 categories:
   - Jazz
 ---

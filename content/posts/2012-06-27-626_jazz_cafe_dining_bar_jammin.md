@@ -3,9 +3,9 @@ title: 6月26日（火）＠都立大学 JAZZ CAFE DINING BAR JAMMIN’
 author: eawind
 type: post
 date: 2012-06-27T11:06:01+09:00
-url: /?p=177
 categories:
   - Jazz
+featured_image: /img/wp/2012/06/IMG_0264.jpg
 ---
 昨日のセッションを最後にして、しばらくライブ活動の休業期間に入ります。
 

@@ -3,7 +3,6 @@ title: 2月11日（水）＠相模原Stray Blue Jazz Club
 author: eawind
 type: post
 date: 2009-02-11T14:36:26+09:00
-url: /?p=15
 categories:
   - Jazz
 ---

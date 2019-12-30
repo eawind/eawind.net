@@ -3,7 +3,6 @@ title: 4月23日（土）＠横浜 エルスウェーニョ
 author: eawind
 type: post
 date: 2011-04-24T13:38:28+09:00
-url: /?p=136
 categories:
   - Jazz
 ---

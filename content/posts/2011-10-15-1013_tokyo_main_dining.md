@@ -3,7 +3,6 @@ title: 10月13日（木）＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2011-10-15T01:58:31+09:00
-url: /?p=163
 categories:
   - Jazz
 ---

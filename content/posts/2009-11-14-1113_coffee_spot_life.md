@@ -3,7 +3,6 @@ title: 11月13日（金）＠武蔵中原 Coffee spot life
 author: eawind
 type: post
 date: 2009-11-14T04:46:12+09:00
-url: /?p=64
 categories:
   - Jazz
 ---

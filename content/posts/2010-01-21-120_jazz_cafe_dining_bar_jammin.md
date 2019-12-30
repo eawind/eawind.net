@@ -3,7 +3,6 @@ title: 1月20日（水）＠都立大学 JAZZ CAFE DINING BAR JAMMIN’
 author: eawind
 type: post
 date: 2010-01-21T03:43:09+09:00
-url: /?p=80
 categories:
   - Jazz
 ---

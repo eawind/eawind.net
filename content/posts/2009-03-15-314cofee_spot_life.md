@@ -3,7 +3,6 @@ title: 3月14日（土）＠武蔵中原cofee spot life
 author: eawind
 type: post
 date: 2009-03-14T15:30:33+09:00
-url: /?p=24
 categories:
   - Jazz
 ---

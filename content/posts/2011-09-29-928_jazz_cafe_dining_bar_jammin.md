@@ -3,7 +3,6 @@ title: 9月28日（水）＠都立大学 JAZZ CAFE DINING BAR JAMMIN’
 author: eawind
 type: post
 date: 2011-09-29T12:51:28+09:00
-url: /?p=161
 categories:
   - Jazz
 ---

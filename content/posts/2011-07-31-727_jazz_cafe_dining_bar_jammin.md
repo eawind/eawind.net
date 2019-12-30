@@ -3,7 +3,6 @@ title: 7月27日（水）＠都立大学 JAZZ CAFE DINING BAR JAMMIN’
 author: eawind
 type: post
 date: 2011-07-31T03:01:15+09:00
-url: /?p=150
 categories:
   - Jazz
 ---

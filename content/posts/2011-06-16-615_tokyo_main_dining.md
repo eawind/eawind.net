@@ -3,7 +3,6 @@ title: 6月15日（水) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2011-06-16T13:00:13+09:00
-url: /?p=143
 categories:
   - Jazz
 ---

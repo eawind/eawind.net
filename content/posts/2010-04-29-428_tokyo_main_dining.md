@@ -3,7 +3,6 @@ title: 4月28日（水）＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2010-04-28T15:21:16+09:00
-url: /?p=95
 categories:
   - Jazz
 ---

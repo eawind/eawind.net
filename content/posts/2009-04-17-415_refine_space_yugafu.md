@@ -3,7 +3,6 @@ title: 4月15日（水）@関内 refine space YUGAFU
 author: eawind
 type: post
 date: 2009-04-16T16:53:37+09:00
-url: /?p=30
 categories:
   - Jazz
 ---

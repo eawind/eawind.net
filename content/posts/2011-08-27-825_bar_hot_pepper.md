@@ -3,7 +3,6 @@ title: 8月25日（木）@池袋 Bar Hot Pepper
 author: eawind
 type: post
 date: 2011-08-27T07:40:11+09:00
-url: /?p=154
 categories:
   - Jazz
 ---

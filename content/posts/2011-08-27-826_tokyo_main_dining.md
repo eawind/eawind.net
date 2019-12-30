@@ -3,7 +3,6 @@ title: 8月26日（金) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2011-08-27T07:44:24+09:00
-url: /?p=155
 categories:
   - Jazz
 ---

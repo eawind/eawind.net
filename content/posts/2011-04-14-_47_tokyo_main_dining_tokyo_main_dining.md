@@ -3,7 +3,6 @@ title: 4月7日（木) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2011-04-13T15:33:07+09:00
-url: /?p=133
 categories:
   - Jazz
 ---

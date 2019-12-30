@@ -3,7 +3,6 @@ title: 12月1日（火）＠渋谷TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2009-12-04T16:16:35+09:00
-url: /?p=70
 categories:
   - Jazz
 ---

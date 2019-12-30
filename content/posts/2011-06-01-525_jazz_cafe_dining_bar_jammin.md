@@ -3,7 +3,6 @@ title: 5月25日（水）＠都立大学 JAZZ CAFE DINING BAR JAMMIN’
 author: eawind
 type: post
 date: 2011-05-31T15:38:34+09:00
-url: /?p=141
 categories:
   - Jazz
 ---

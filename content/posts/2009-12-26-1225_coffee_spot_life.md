@@ -3,7 +3,6 @@ title: 12月25日（金）＠武蔵中原 Coffee spot life
 author: eawind
 type: post
 date: 2009-12-26T02:21:16+09:00
-url: /?p=77
 categories:
   - Jazz
 ---

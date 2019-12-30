@@ -3,7 +3,6 @@ title: 2月5日（金）＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2010-02-06T05:10:29+09:00
-url: /?p=84
 categories:
   - Jazz
 ---

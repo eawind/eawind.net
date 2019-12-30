@@ -3,7 +3,6 @@ title: 1月27日（木）@池袋 Bar Hot Pepper
 author: eawind
 type: post
 date: 2011-01-28T17:30:47+09:00
-url: /?p=125
 categories:
   - Jazz
 ---

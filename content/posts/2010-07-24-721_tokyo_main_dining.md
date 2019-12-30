@@ -3,7 +3,6 @@ title: 7月21日（水) ＠渋谷 TOKYO MAIN DINING
 author: eawind
 type: post
 date: 2010-07-24T10:37:56+09:00
-url: /?p=107
 categories:
   - Jazz
 ---

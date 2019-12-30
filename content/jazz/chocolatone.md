@@ -4,7 +4,7 @@ author: eawind
 type: page
 date: 2014-07-23T09:03:15+00:00
 ---
-Chocolatoneでの活動は[2012年6月7日のライブ](/p176)でいったん終了となりました。
+Chocolatoneでの活動は[2012年6月7日のライブ](/posts/2012-06-10-chocolatone_67_bar_hot_pepper_groovy_chocolatone/)でいったん終了となりました。
 
 メインバンドとして活動している２管クインテット
 

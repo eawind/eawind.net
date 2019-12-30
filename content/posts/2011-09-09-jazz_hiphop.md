@@ -3,7 +3,6 @@ title: 【つぶやき】Jazz と HipHop の融合の形
 author: eawind
 type: post
 date: 2011-09-08T16:15:07+09:00
-url: /?p=156
 categories:
   - Jazz
 ---

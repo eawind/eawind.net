@@ -3,7 +3,6 @@ title: 2月9日（水）＠都立大学 JAZZ CAFE DINING BAR JAMMIN’
 author: eawind
 type: post
 date: 2011-02-10T14:53:30+09:00
-url: /?p=127
 categories:
   - Jazz
 ---

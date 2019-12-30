@@ -3,7 +3,6 @@ title: 3月29日（木）@池袋 Bar Hot Pepper
 author: eawind
 type: post
 date: 2012-04-01T11:32:47+09:00
-url: /?p=173
 categories:
   - Jazz
 ---

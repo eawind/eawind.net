@@ -3,7 +3,6 @@ title: 2月24日（火）＠大久保Cafe Dolce Vita
 author: eawind
 type: post
 date: 2009-02-24T15:55:18+09:00
-url: /?p=21
 categories:
   - Jazz
 ---
