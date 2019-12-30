@@ -1,7 +1,6 @@
 ---
 title: "Chocolatone"
 date: 2019-12-31T04:52:17+09:00
-draft: true
 ---
 Chocolatoneでの活動は[2012年6月7日のライブ](/p176)でいったん終了となりました。
 
