@@ -3,5 +3,7 @@ languageCode = "ja"
 title = "ユーラシアの風 – Blowin' in the Eurasian Wind -"
 theme = "ananke"
 
+googleAnalytics = "UA-2521488-1"
+
 [params]
 favicon = "favicon.ico"
