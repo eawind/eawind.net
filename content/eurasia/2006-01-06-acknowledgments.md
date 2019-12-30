@@ -1,12 +1,10 @@
 ---
 title: 謝辞
 author: eawind
-type: post
+type: page
 date: 2006-01-06T14:33:17+09:00
-url: /?p=643
 categories:
   - 02.謝辞
-
 ---
 旅の過程を記すにあたって、多くの方のご支援に深く感謝の気持ちを示しておきたいと思う。
 

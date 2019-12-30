@@ -1,6 +1,8 @@
 ---
-title: "Chocolatone"
-date: 2019-12-31T04:52:17+09:00
+title: Chocolatone
+author: eawind
+type: page
+date: 2014-07-23T09:03:15+00:00
 ---
 Chocolatoneでの活動は[2012年6月7日のライブ](/p176)でいったん終了となりました。
 
