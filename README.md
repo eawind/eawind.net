@@ -24,8 +24,8 @@ git submodule update
 hugo server
 ```
 
-起動したら、[http://localhost:1313/](http://localhost:1313/)をブラウザで開いて確認します。
+起動したら、http://localhost:1313/ をブラウザで開いて確認します。
 
 ## サイトへの反映
 
-本リポジトリにある `master` ブランチにプッシュすることで、Netlify上にあるサイト [https://www.eawind.net/] に反映されます。
+本リポジトリにある `master` ブランチにプッシュすることで、Netlify上にあるサイト https://www.eawind.net/ に反映されます。
