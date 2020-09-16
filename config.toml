@@ -1,4 +1,4 @@
-baseURL = "http://www.eawind.net/"
+baseURL = "https://www.eawind.net/"
 languageCode = "ja"
 title = "ユーラシアの風 – Blowin' in the Eurasian Wind -"
 theme = "ananke"
