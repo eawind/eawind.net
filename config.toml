@@ -1,12 +1,37 @@
+title = "ユーラシアの風 – Blowin' in the Eurasian Wind -"
 baseURL = "https://www.eawind.net/"
 languageCode = "ja"
-title = "ユーラシアの風 – Blowin' in the Eurasian Wind -"
 theme = "ananke"
-googleAnalytics = "UA-2521488-1"
+resourceDir = "../resources"
 
+DefaultContentLanguage = "ja"
 SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "G-MH3R1K53HT"
+enableRobotsTXT = true
+
+#[languages]
+#  [languages.ja]
+#    title = "Ananke"
+#    weight = 1
+#    contentDir = "content/ja"
+#    # languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
+  text_color = ""
+  author = ""
   favicon = "favicon.ico"
-  featured_image = "/img/wp/2007/04/200303272326021.jpg"
-  twitter = "https://twitter.com/eawind"
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/eawind"
