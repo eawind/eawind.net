@@ -3,6 +3,7 @@ title: チートシート
 author: eawind
 type: post
 date: 1975-10-28T13:11:05+09:00
+draft: true
 ---
 
 新しめ
