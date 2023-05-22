@@ -8,7 +8,7 @@ categories:
 ---
 新たに挑戦した Jordu や Cherokee など、この日はいろいろスタンダードを試せた日でした。それに、なぜか聖子ちゃんのカバーをやっているこのトリオですが、今回は斬新にも、瞳はダイアモンドをファンクで、Sweet Memories をボサノバでやってみました。次の聖子ちゃん新曲は何をやろう。。リクエストあったら教えてください〜。
 
-[<img class="alignnone size-medium wp-image-917" src="/img/wp/2011/01/IMG_0070.jpg" alt="IMG_0070" width="300" height="225" srcset="/img/wp/2011/01/IMG_0070.jpg 300w, /img/wp/2011/01/IMG_0070-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="alignnone size-medium wp-image-917" src="/img/2011/01/IMG_0070.jpg" alt="IMG_0070" width="300" height="225" srcset="/img/2011/01/IMG_0070.jpg 300w, /img/2011/01/IMG_0070-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 今の時期は、お店がフジテレビとタイアップして、フィギュアスケートの装飾や選手のスケート靴の展示などがしてあって、記念に写真をとってみました。
 
@@ -72,4 +72,4 @@ categories:
 
 > 4. Cherokee
 
- [1]: /img/wp/2011/01/IMG_0070.jpg
+ [1]: /img/2011/01/IMG_0070.jpg

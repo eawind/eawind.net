@@ -46,7 +46,7 @@ categories:
 
 > Cry Me A River
 >
-> <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/wp/2009/07/IMG_0022.jpg"><img class="alignnone size-medium wp-image-801" src="/img/wp/2009/07/IMG_0022.jpg" alt="IMG_0022" width="225" height="300" srcset="/img/wp/2009/07/IMG_0022.jpg 225w, /img/wp/2009/07/IMG_0022-768x1024.jpg 768w, /img/wp/2009/07/IMG_0022.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" /></a></span>
+> <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/2009/07/IMG_0022.jpg"><img class="alignnone size-medium wp-image-801" src="/img/2009/07/IMG_0022.jpg" alt="IMG_0022" width="225" height="300" srcset="/img/2009/07/IMG_0022.jpg 225w, /img/2009/07/IMG_0022-768x1024.jpg 768w, /img/2009/07/IMG_0022.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" /></a></span>
 
 反省点としては、You'd Be So Nice To Come Home To と Confirmation を楽譜なしでやったのが個人的に怪しかったのと、Summer Time をアルコで Verse したのも怪しかった。。
 

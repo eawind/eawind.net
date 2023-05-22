@@ -5,7 +5,7 @@ type: page
 date: 2014-05-31T16:45:52+00:00
 draft: true
 ---
-![contact](/img/wp/2014/06/contact.jpg)
+![contact](/img/2014/06/contact.jpg)
 
 お店をにぎやかにしたい、生音のBGMとしてスタンダードを演奏してほしい。
 

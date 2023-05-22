@@ -40,7 +40,7 @@ categories:
 
 > 03-5428-5031
 
-> <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/wp/2010/09/IMG_0007.jpg"><img class="alignnone size-medium wp-image-912" src="/img/wp/2010/09/IMG_0007.jpg" alt="IMG_0007" width="300" height="225" srcset="/img/wp/2010/09/IMG_0007.jpg 300w, /img/wp/2010/09/IMG_0007-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></span>
+> <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/2010/09/IMG_0007.jpg"><img class="alignnone size-medium wp-image-912" src="/img/2010/09/IMG_0007.jpg" alt="IMG_0007" width="300" height="225" srcset="/img/2010/09/IMG_0007.jpg 300w, /img/2010/09/IMG_0007-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></span>
 >
 > [1st Stage]
 
