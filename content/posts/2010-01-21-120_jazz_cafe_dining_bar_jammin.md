@@ -6,7 +6,7 @@ date: 2010-01-21T03:43:09+09:00
 categories:
   - Jazz
 ---
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/wp/2010/01/IMG_0144.jpg"><img class="alignnone size-medium wp-image-879" src="/img/wp/2010/01/IMG_0144.jpg" alt="IMG_0144" width="300" height="225" srcset="/img/wp/2010/01/IMG_0144.jpg 300w, /img/wp/2010/01/IMG_0144-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/2010/01/IMG_0144.jpg"><img class="alignnone size-medium wp-image-879" src="/img/2010/01/IMG_0144.jpg" alt="IMG_0144" width="300" height="225" srcset="/img/2010/01/IMG_0144.jpg 300w, /img/2010/01/IMG_0144-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></span>
 
 今回、はじめてこちらのお店で演奏させていただきました。雰囲気は落ち着いた感じで、適度な広さと音のいいスピーカー。大勢のプレイヤーの方々にお越しいただいて盛り上がった一夜でした。
 

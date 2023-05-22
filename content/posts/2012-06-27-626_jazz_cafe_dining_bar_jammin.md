@@ -5,11 +5,11 @@ type: post
 date: 2012-06-27T11:06:01+09:00
 categories:
   - Jazz
-featured_image: /img/wp/2012/06/IMG_0264.jpg
+featured_image: /img/2012/06/IMG_0264.jpg
 ---
 昨日のセッションを最後にして、しばらくライブ活動の休業期間に入ります。
 
-![IMG_0264](/img/wp/2012/06/IMG_0264.jpg)
+![IMG_0264](/img/2012/06/IMG_0264.jpg)
 
 最後に２年半の間、一緒に演奏してきたかおりんと尾方さん、それにマスターも揃って記念撮影をさせていただきました。
 

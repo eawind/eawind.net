@@ -29,7 +29,7 @@ http://www2.tba.t-com.ne.jp/cslife/
 
 044-722-0024
 
-![12月25日（金）＠武蔵中原 Coffee spot life](/img/wp/2009/12/IMG_0089.jpg)
+![12月25日（金）＠武蔵中原 Coffee spot life](/img/2009/12/IMG_0089.jpg)
 
 ## 1st Stage
 

@@ -5,11 +5,11 @@ type: post
 date: 2012-06-10T12:31:45+09:00
 categories:
   - Jazz
-featured_image: /img/wp/2012/06/IMG_0258.jpg
+featured_image: /img/2012/06/IMG_0258.jpg
 ---
 第４６回目のChocolatoneのライブでした。だいぶ多く演奏してきたこのバンドですが、私はしばらくお預けになります。また、いつかいい演奏ができればと思います。
 
-![IMG_0258](/img/wp/2012/06/IMG_0258.jpg)
+![IMG_0258](/img/2012/06/IMG_0258.jpg)
 
 6月7日（木）@[池袋 Bar Hot Pepper](http://jazzhotpepper.com/)
 
