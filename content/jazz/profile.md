@@ -3,6 +3,7 @@ title: ダブルベースプロフィール
 author: eawind
 type: page
 date: 2014-05-31T16:40:14+00:00
+featured_image: /img/2014/06/profile.jpg
 ---
 
 1975年　神奈川県生まれ

@@ -10,6 +10,8 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = "G-MH3R1K53HT"
 enableRobotsTXT = true
 
+hasCJKLanguage = true
+
 #[languages]
 #  [languages.ja]
 #    title = "Ananke"
@@ -34,7 +36,26 @@ enableRobotsTXT = true
   body_classes = "system-sans-serif bg-light-gray"
   post_content_classes = "system-sans-serif"
   date_format = "2006/1/2 15:04:05"
+  #read_more_copy = "続きを読む"
 
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/eawind"
+
+#[taxonomies]
+#  category = 'categories'
+#  tag = 'tags'
+
+#[menu]
+#[[menu.main]]
+#  name = 'Home'
+#  pageRef = '/'
+#  weight = 10
+#[[menu.main]]
+#  name = 'Eurasia'
+#  pageRef = '/eurasia'
+#  weight = 20
+#[[menu.main]]
+#  name = 'Jazz'
+#  pageRef = '/jazz'
+#  weight = 30

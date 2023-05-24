@@ -3,6 +3,7 @@ title: Chocolatone
 author: eawind
 type: page
 date: 2014-07-23T09:03:15+00:00
+featured_image: /img/2009/05/CHOCOLATONE_thumbnail.jpg
 ---
 Chocolatoneでの活動は[2012年6月7日のライブ](/posts/2012-06-10-chocolatone_67_bar_hot_pepper_groovy_chocolatone/)でいったん終了となりました。
 
