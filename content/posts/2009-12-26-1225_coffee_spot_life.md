@@ -10,7 +10,7 @@ categories:
 
 また、来年も多くの演奏をすることかと思います。みなさま良いお年を！
 
-# 12月25日（金）＠[武蔵中原 Coffee spot life](http://www2.tba.t-com.ne.jp/cslife/)</a>
+# 12月25日（金）＠[武蔵中原 Coffee spot life](http://www2.tba.t-com.ne.jp/cslife/)
 
 最近、飲めなかったコーヒーが飲めるようになったのはここのお店のおかげな気がします。今回も前月に続き、佐藤等さんとの久々の Coffee spot life での演奏にお誘いいただきました。
 

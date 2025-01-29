@@ -12,62 +12,47 @@ categories:
 
 このまま、こんな夜が長く続けばいいのにと思った今日でした。
 
-次回のTMDは１２月２７日（火）の演奏で、今年も弾き納めです。
+次回のTMDは12月27日（火）の演奏で、今年も弾き納めです。
 
-> **<big>11月17日（木）＠渋谷 TOKYO MAIN DINING</big>**
->
-> 渋谷のおしゃれなニューヨークスタイルの本格イタリアンレストラン「TOKYO MAIN DINING」でのライブ。素敵なお店に、美味しい料理がそろっていますので、楽しみにきてください！
->
-> 1st 19:15~19:45 / 2nd 20:15~20:45 / 3rd 21:15~21:45
+**11月17日（木）＠渋谷 TOKYO MAIN DINING**
 
-> Music Charge: Free
+渋谷のおしゃれなニューヨークスタイルの本格イタリアンレストラン「TOKYO MAIN DINING」でのライブ。素敵なお店に、美味しい料理がそろっていますので、楽しみにきてください！
 
-> ※別途料理等ご注文ください。
->
-> 川村 健 (pf)
+1st 19:15 ~ 19:45 / 2nd 20:15 ~ 20:45 / 3rd 21:15 ~ 21:45
 
-> 風間 進一 (bs)
+Music Charge: Free
 
-> 山本 亨 (ds)
->
-> TOKYO MAIN DINING:
+※別途料理等ご注文ください。
 
-> 東京都渋谷区神南1-12-13 渋谷シダックスビレッジ1F
+- 川村 健 (pf)
+- 風間 進一 (bs)
+- 山本 亨 (ds)
 
-> ※渋谷駅より徒歩5分。丸井・タワーレコードを過ぎて電力館手前のシダックスビレッジ。
+**TOKYO MAIN DINING:**
 
-> http://www.shidax.co.jp/tmd/
+東京都渋谷区神南1-12-13 渋谷シダックスビレッジ1F  
+※渋谷駅より徒歩5分。丸井・タワーレコードを過ぎて電力館手前のシダックスビレッジ。  
+[公式ウェブサイト](http://www.shidax.co.jp/tmd/)  
+03-5428-5031
 
-> 03-5428-5031
->
-> [1st Stage]
+**[1st Stage]**
 
-> 1. In a Mellow Tone
+1. In a Mellow Tone  
+2. More Than You Know  
+3. 赤いスイトピー  
+4. Nardis  
 
-> 2. More Than You Know
+**[2nd Stage]**
 
-> 3. 赤いスイトピー
+1. Lyresto  
+2. Summer in Central Park  
+3. Bridgitte  
+4. 風立ちぬ  
 
-> 4. Nardis
->
-> [2nd Stage]
+**[3rd Stage]**
 
-> 1. Lyresto
-
-> 2. Summer in Central Park
-
-> 3. Bridgitte
-
-> 4. 風立ちぬ
->
-> [3rd Stage]
-
-> 1. Band Aid
-
-> 2. Heyoke
-
-> 3. 青い珊瑚礁
-
-> 4. Minor Strain
-
-> 5. Polkadots and Moonbeams
+1. Band Aid  
+2. Heyoke  
+3. 青い珊瑚礁  
+4. Minor Strain  
+5. Polkadots and Moonbeams

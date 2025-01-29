@@ -12,41 +12,30 @@ categories:
 
 黒田なおこさんが訪ねてくださったり、佐藤等さんも来場いただいたり、それと初めてお会いした方達と名刺交換させていただいたり、たくさんの交流ができたのはありがたいことでした。
 
-&nbsp;
+## **7月20日（月）＠[横浜 JAZZ SPOT 「DOLPHY」](http://www.dolphy-jazzspot.com/index.html)**
+ここで、セッションホストができるとは夢見たいです！しっかり伴奏。ぜひボーカリストの皆様、そして楽器の皆様お越し下さい。
 
-> **<big>7月20日（月）＠<a href="http://www.dolphy-jazzspot.com/index.html" target="_blank">横浜 JAZZ SPOT 「DOLPHY」</a></big>**
->
-> ここで、セッションホストができるとは夢見たいです！しっかり伴奏。ぜひボーカリストの皆様、そして楽器の皆様お越し下さい。
->
-> 19:00 start
->
-> ボーカル・ジャムセッション
+- **19:00 start**  
+- ボーカル・ジャムセッション
 
-> <a href="http://www.yoshiiki.com/" target="_blank">Yoshiiki</a>(vo)
+**メンバー**  
+- **[Yoshiiki](http://www.yoshiiki.com/)** (vo)  
+- **[中田舜彦](http://www.penta-jazz.com/)**（p）  
+- **風間進一** (b)
 
-> <a href="http://www.penta-jazz.com/" target="_blank">中田舜彦</a>（p)
+**チャージ・参加費:** 1200円
 
-> 風間進一(b)
->
-> チャージ・参加費 1200円
->
-> JAZZ SPOT 「DOLPHY」:
+**JAZZ SPOT 「DOLPHY」**  
+横浜市中区宮川町2-17-4 第一西村ビル2Ｆ  
+TEL: 045-261-4542  
+[公式ウェブサイト](http://www.dolphy-jazzspot.com/index.html)
 
-> 横浜市中区宮川町2-17-4 第一西村ビル2Ｆ
+### [All Three Stages]
+This Could Be the Start of Something Big  
+...  
+Cry Me A River  
 
-> 045-261-4542
-
-> <a href="http://www.dolphy-jazzspot.com/index.html" target="_blank">http://www.dolphy-jazzspot.com/index.html</a>
->
-> [All Three Stages]
-
-> This Could Be the Start of Something Big
-
-> &#8230;
-
-> Cry Me A River
->
-> <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/2009/07/IMG_0022.jpg"><img class="alignnone size-medium wp-image-801" src="/img/2009/07/IMG_0022.jpg" alt="IMG_0022" width="225" height="300" srcset="/img/2009/07/IMG_0022.jpg 225w, /img/2009/07/IMG_0022-768x1024.jpg 768w, /img/2009/07/IMG_0022.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" /></a></span>
+![ステージのあと](/img/2009/07/IMG_0022.jpg)
 
 反省点としては、You'd Be So Nice To Come Home To と Confirmation を楽譜なしでやったのが個人的に怪しかったのと、Summer Time をアルコで Verse したのも怪しかった。。
 

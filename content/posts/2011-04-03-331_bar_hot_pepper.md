@@ -8,70 +8,52 @@ categories:
 ---
 40回目の節目を迎える Chocolatone のライブでしたが、いろいろな変化を感じるライブとなりました。また、次の機会によりよいアンサンブルを行える日を迎えられますよう。
 
-> <big><strong>3月31日（木）@<a href="http://jazzhotpepper.com/" target="_blank">池袋 Bar Hot Pepper</a></strong></big>
->
-> すばらしき、２管クインテット。Groovyなライブをお届け。
+---
 
-> ますますパワーアップしての演奏で、池袋の夜を彩ります。
->
-> 【[Chocolatone][1]】
+### 会場情報  
+**Bar Hot Pepper**  
+豊島区西池袋１ー３７ー１５　ロサ会館　隣　西形ビル５Ｆ  
+[Bar Hot Pepper website](http://jazzhotpepper.com/)  
+TEL: 03-3971-8669  
+open 19:00 close 24:00
 
-> 野下 聖司 (ts)
+---
 
-> 川村 健 (pf)
+### メンバー  
+- **野下 聖司** (ts)  
+- **川村 健** (pf)  
+- **風間 進一** (bs)  
+- **山本 亨** (ds)
 
-> 風間 進一 (bs)
+---
 
-> 山本 亨 (ds)
->
-> open 19:00 close 24:00
+### ライブ詳細  
+- **MC**: 2,500円（ご飲食は別途）  
+- **時間**:  
+  1st set: 20:00〜  
+  2nd set: 21:15〜  
+  3rd set: 22:30〜 (終了予定: 23:15)
 
-> 1stset 20:00〜,2ndset 21:15〜,3rdset 22:30〜 終わりが23時15分までとなります。
->
-> MC: 2,500円 （ご飲食は別途になります。　おいしいお酒＆カクテル多数ご用意した気軽にたのしめる本格派Ｂａｒです。）
->
-> Bar Hot Pepper:
+---
 
-> 豊島区西池袋１ー３７ー１５　ロサ会館　隣　西形ビル５Ｆ
+### 曲目  
+#### [1st Stage]  
+- Straight Ahead  
+- Mack the Knife  
+- Days of Wine and Roses  
+- Misty  
+- Perdido  
 
-> 03-3971-8669
+#### [2nd Stage]  
+- Footprints  
+- All the Things You Are  
+- Hurt So Bad  
+- I Can't Get Started  
+- Ode to Billy Joe  
 
-> <a href="http://jazzhotpepper.com/" target="_blank">http://www.qurie.ne.jp/hotpepper/</a>
->
-> [1st Stage]
-
-> 1. Straight Ahead
-
-> 2. Mack the Knife
-
-> 3. Days of Wine and Roses
-
-> 4. Misty
-
-> 5. Perdido
->
-> [2nd Stage]
-
-> 1. Footprints
-
-> 2. All the Things You Are
-
-> 3. Hurt So Bad
-
-> 4. I Can't Get Started
-
-> 5. Ode to Billy Joe
->
-> [3rd Stage]
-
-> 1. Tell Me a Bedtime Story
-
-> 2. Bye Bye Blackbird
-
-> 3. People Make the World Go Round
-
-> 4. 花 ～すべての人の心に花を～
-
-> 5. Someday My Prince Will Come
-
- [1]: http://www.eawind.net/?page_id=930
+#### [3rd Stage]  
+- Tell Me a Bedtime Story  
+- Bye Bye Blackbird  
+- People Make the World Go Round  
+- 花 ～すべての人の心に花を～  
+- Someday My Prince Will Come
