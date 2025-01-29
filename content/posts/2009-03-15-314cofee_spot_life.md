@@ -12,7 +12,7 @@ categories:
 
 さて、本日の女子メンバーには西さんと二人で若野の変わった大福をお返ししておきました。こんな感じ。
 
-http://<wbr />www.wak<wbr />ano-web<wbr />shop.co<wbr />m/SHOP/<wbr />S03.htm<wbr />l
+http://www.wakano-webshop.com/SHOP/S03.html
 
 さて、いつものセットリストです。
 
@@ -32,7 +32,7 @@ http://<wbr />www.wak<wbr />ano-web<wbr />shop.co<wbr />m/SHOP/<wbr />S03.htm<wb
 >
 > 神奈川県 川崎市 中原区 上小田中 ６−２２−１３
 >
-> <a href="http://www2.tba.t-com.ne.jp/cslife/" target="_blank" rel="noopener noreferrer">http://<wbr />www2.tb<wbr />a.t-com<wbr />.ne.jp/<wbr />cslife/</a>
+> http://www2.tba.t-com.ne.jp/cslife/
 >
 > ０４４−７２２−００２４
 
