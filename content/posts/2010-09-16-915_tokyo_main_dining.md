@@ -6,68 +6,64 @@ date: 2010-09-15T15:18:24+09:00
 categories:
   - Jazz
 ---
-今日は、雨だったし、シルバーウィーク前だったせいか、お客さんはまばらでしたが、いろんな曲が演奏できて、すばらしい演奏の一夜になったかなという感じです。松田聖子の曲を二曲と、カザフスタンの民謡、かわけんのオリジナル、もっちのやりたがっていた African Village などなど盛りだくさんでトリオの演奏が楽しかった。
+今日は **雨** だったし、**シルバーウィーク前** だったせいか、  
+お客さんはまばらでしたが、**いろんな曲を演奏できた** 一夜でした。  
 
-来月はもっちが別のバンドにてライブとのことで、１０月２１日（木）に別のドラマーを迎えてのライブとなります。
+松田聖子の曲を2曲、**カザフスタンの民謡**、かわけんのオリジナル、  
+もっちのやりたがっていた **"African Village"** などなど、盛りだくさんのセットリストで、  
+**トリオの演奏が楽しかった！**  
 
-いよいよ秋がせまって、ジャズにふさわしい季節がやってきますね。楽しみです。
+来月は、**もっちが別のバンドでライブ** のため、  
+**10月21日（木）** は **別のドラマーを迎えてのライブ** となります。  
 
-> **<big>9月15日（水) ＠渋谷 TOKYO MAIN DINING</big>**
->
-> 渋谷のおしゃれなニューヨークスタイルの本格イタリアンレストラン「TOKYO MAIN DINING」でのライブ。素敵なお店に、美味しい料理がそろっていますので、楽しみにきてください！
->
-> 1st 19:15~19:45 / 2nd 20:15~20:45 / 3rd 21:15~21:45
+いよいよ **秋が迫り、ジャズにふさわしい季節** がやってきますね。楽しみです。
 
-> Music Charge: Free
+---
 
-> ※別途料理等ご注文ください。
->
-> 川村 健 (pf)
+## 9月15日（水）＠渋谷 TOKYO MAIN DINING
 
-> 風間 進一 (bs)
+渋谷のおしゃれな **ニューヨークスタイルの本格イタリアンレストラン** 「TOKYO MAIN DINING」でのライブ。  
+素敵なお店に、美味しい料理がそろっていますので、ぜひお楽しみください！
 
-> 山本 亨 (ds)
->
-> TOKYO MAIN DINING:
+- **1st Stage:** 19:15〜19:45  
+- **2nd Stage:** 20:15〜20:45  
+- **3rd Stage:** 21:15〜21:45  
+- **Music Charge:** Free（※別途料理等ご注文ください）  
 
-> 東京都渋谷区神南1-12-13 渋谷シダックスビレッジ1F
+### 出演者
+- **川村 健 (pf)**  
+- **風間 進一 (bs)**  
+- **山本 亨 (ds)**  
 
-> ※渋谷駅より徒歩5分。丸井・タワーレコードを過ぎて電力館手前のシダックスビレッジ。
+### 会場情報
+**TOKYO MAIN DINING**  
+東京都渋谷区神南1-12-13 渋谷シダックスビレッジ1F  
+※渋谷駅より徒歩5分。丸井・タワーレコードを過ぎて電力館手前のシダックスビレッジ。  
 
-> http://www.shidax.co.jp/tmd/
+[公式サイト](http://www.shidax.co.jp/tmd/)  
+[ぐるなびページ](http://r.gnavi.co.jp/g066204/)  
+TEL: 03-5428-5031  
 
-> <a href="http://r.gnavi.co.jp/g066204/" target="_blank" rel="noopener noreferrer">http://r.gnavi.co.jp/g066204/</a>
+![ライブ写真](/img/2010/09/IMG_0007.jpg)
 
-> 03-5428-5031
+---
 
-> <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/img/2010/09/IMG_0007.jpg"><img class="alignnone size-medium wp-image-912" src="/img/2010/09/IMG_0007.jpg" alt="IMG_0007" width="300" height="225" srcset="/img/2010/09/IMG_0007.jpg 300w, /img/2010/09/IMG_0007-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></span>
->
-> [1st Stage]
+## セットリスト
 
-> 1. Eb Blues
+### [1st Stage]
+1. Eb Blues  
+2. Kharlegax  
+3. Sweet Memories  
+4. Manu  
 
-> 2. Kharlegax
+### [2nd Stage]
+1. Star-crossed Lovers  
+2. Sweet Georgia Brown  
+3. 赤いスイトピー  
+4. Blue Monk  
 
-> 3. Sweet Memories
-
-> 4. Manu
->
-> [2nd Stage]
-
-> 1. Star-crossed Lovers
-
-> 2. Sweet Georgia Brown
-
-> 3. 赤いスイトピー
-
-> 4. Blue Monk
->
-> [3rd Stage]
-
-> 1. African Village
-
-> 2. Grandma's Smile
-
-> 3. Dear Old Stockholm
-
-> 4. These Foolish Things
+### [3rd Stage]
+1. African Village  
+2. Grandma's Smile  
+3. Dear Old Stockholm  
+4. These Foolish Things  
