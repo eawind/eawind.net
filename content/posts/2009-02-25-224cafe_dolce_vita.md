@@ -6,7 +6,7 @@ date: 2009-02-24T15:55:18+09:00
 categories:
   - Jazz
 ---
-# Come Rain Or Come Shine
+Come Rain Or Come Shine
 
 いいときもあれば、わるいときもある。
 
